@@ -1,3 +1,3 @@
 # blog-code
 
-This repo contains code and data of my data analysis blog.
+This reso contains code and data of my personal data analytics blog (https://jisooleeworks.github.io/blog-site/).
